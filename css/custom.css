@@ -18,3 +18,7 @@ ul {
     /* font-style: normal; */
     font-size: 0.8rem;
 }
+.skills {
+	font-style: italic;
+	padding: 5px;
+}
